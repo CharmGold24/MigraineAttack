@@ -1,10 +1,19 @@
-# SAS-Project-Migraine-Attack Data Analysis
-Nearly 400 records of patients 
-Analysis - Average age of patients by gender, smoking and drinking habits, consumption history
-Analysis - clinical details, testing details
-In the last table i have analysed the frequency of migraine attacks per month and duration of the attack.
-Analysis of side effects
+Size of dataset = 408
+PROJECT NAME : Migraine Attack Data Analyses
 
-Used PROCEDURES Import, TABULATE, MEANS, 
+1.DEMOGRAPHICS OF PATIENTS - 
+   Average Age of Patients by Gender
+   Analysis of Smoking and Drinking habits
+   Analysis of Smoking History and Alcohol Consumption
 
-Table 1. Average Age of Patients by Gender
+2. ANALYSIS OF CLINICAL EXAMINATION
+   Means of Blood Pressure and Pulse Rate
+   Summary of Other diseases
+
+3. LAB TESTING
+   Analysis of Patient Blood History Data
+   Summary of Urine Analysis, Pregnancy and ECG
+
+4. MIGRAINE ATTACK
+   Averages of Time Since Initial Attack (Months), Frequency and Duration
+   Analysis of Side Effects Due to Migraine Attack.
